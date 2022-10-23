@@ -105,3 +105,11 @@ a{
   }
 }
 /* End Keyframes animation*/
+
+#works{
+  font-size: 4em;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 40px;
+  color: rgb(189, 18, 52);
+}
